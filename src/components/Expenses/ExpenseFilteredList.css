@@ -1,0 +1,9 @@
+.expense-filtered-list {
+  list-style: none;
+  padding: 0;
+}
+
+.expense-filtered-list__text {
+  color: white;
+  text-align: center;
+}
